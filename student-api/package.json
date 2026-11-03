@@ -1,12 +1,19 @@
+
 {
   "name": "student-api",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Student Management REST API using Node.js and Express",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js",
+    "dev": "node --watch server.js"
   },
-  "keywords": [],
+  "keywords": [
+    "student",
+    "api",
+    "express",
+    "nodejs"
+  ],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
