@@ -1,4 +1,3 @@
-
 {
   "name": "student-api",
   "version": "1.0.0",
@@ -6,13 +5,13 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "dev": "node --watch server.js"
+    "dev": "node server.js"
   },
   "keywords": [
     "student",
-    "api",
-    "express",
-    "nodejs"
+    "management",
+    "rest-api",
+    "express"
   ],
   "author": "",
   "license": "ISC",
